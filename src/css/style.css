@@ -147,7 +147,7 @@ element {
 }
 
 .promo__title{
-	color: var(--light-color, #F5F5F7);
+	color: red;
 	font-size: 60px;
 	font-weight: 400;
 	line-height: normal;
